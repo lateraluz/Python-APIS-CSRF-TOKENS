@@ -1,6 +1,5 @@
 # 05-10-2023
 # Write by Laterealuz
-# Get Info from all Services Manager interno de Citas
 
 import json
 import random
